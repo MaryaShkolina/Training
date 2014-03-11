@@ -1,0 +1,22 @@
+Task003
+Write an utility function which takes a positive number 
+and returns the array of the digits of the given number. 
+Example: input = 12345, return value [1,2,3,4,5]
+
+Task004
+Write a simple program called LuckyNumber. 
+It takes any positive number and checks if the number is lucky or not
+
+Task005
+Write a program called LuckyBinaryNumber. 
+It takes any positive number in decimal representation, 
+and returns if binary representaion is a lucky number or not.
+
+Task009
+Write a simple program, which gets a positive number as an input 
+and returns if there are at least 2 identical digits in the given number.
+
+Task010
+Write a simple program which gets a positive number as an input 
+and returns reversed representation of the given number. 
+Example: input = 12345, returns 54321
