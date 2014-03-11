@@ -1,0 +1,9 @@
+Task013
+Write a program which gets a circle with radius k and with center coordinate (x1,y1), 
+and a random dot coordinate (x2,y2); 
+and returns if the dot is inside the circle, or outside.
+
+Task014
+Write a program which gets two circles: c1 {radius k1, center coordinate (x1,y1)}, 
+c2 {radius k2, center coordinate (x2,y2)}; 
+and returns if the circles are crossing or not.
