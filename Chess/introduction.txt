@@ -1,0 +1,13 @@
+Task006
+Write a program which takes n values, which are chess fields (like E2, B7..) and 
+return if chess fields have the same color or not
+
+Task007
+Write a program which takes 2 values, which are chess fields (like E2, C5). 
+The first value is the knight placement on the board. 
+The program should return the result if it is possible for the knight to get to the second field by single move.
+
+Task008
+Write a program which takes 2 values, which are chess fields (like E2, C8). 
+The first value is the bishop placement on the board. 
+The program should return if it is possible for the bishop to get to the second field by single move.
